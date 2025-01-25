@@ -6,7 +6,11 @@
 
 function say_hello() {
     // CODE HERE!!!
+<<<<<<< HEAD
     console.log("Siraprapak")
+=======
+    console.log("Thitavarat Pakdeeto")
+>>>>>>> fe42c54 (My name)
     
 }
 
