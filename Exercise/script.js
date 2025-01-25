@@ -6,7 +6,7 @@
 
 function say_hello() {
     // CODE HERE!!!
-    console.log("Siraprapa Krongrath")
+    console.log("Thitavarat Pakdeeto")
     
 }
 
